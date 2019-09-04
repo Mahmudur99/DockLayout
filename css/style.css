@@ -1,0 +1,196 @@
+body{
+    background-color: white;	
+    padding: 0;
+    margin-top: 0;
+}
+
+.header{
+	background-color: rgba(0, 115, 230,0.6);
+	min-height: 70px;
+position: relative;
+margin-top: 5px;
+}
+.header h1
+	{
+	color: rgb(0, 51, 102);
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+
+.path{
+	background: rgba(193, 41, 155, 0.3);
+min-height: 110px;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+	
+.path h1{
+		color: black;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.docktop{
+	background-color: rgba(238, 155, 135, 0.69);
+min-height: 70px;
+position: relative;
+}
+.docktop h1{
+		color: black;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.wrapper {
+	overflow: hidden;
+}
+
+.box1 {
+	background-color: 	rgba(204, 0, 0,0.7);
+	min-height: 300px;
+	width:30%;
+	float:left;
+	margin-right: 10px;
+	margin-left: 45px;
+	margin-top: 10px;
+}
+.box1 h1{
+    color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+.wrapper1{
+	overflow: hidden;
+}
+
+.box2 {
+	background-color: 	rgba(204, 0, 0, 0.85);
+	min-height: 125px;
+	width: 44%;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 45px;
+}
+.box2 h1{
+	color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%;
+}
+.box4{
+	background-color: green;
+	min-height: 360px;
+	width: 44%;
+	float:left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 45px;
+}
+.box4 h1{
+	color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%;
+
+}
+
+.box3{
+	background-color: 	rgba(204, 0, 0,0.7);
+	min-height: 300px;
+	width:30%;
+	float:left;
+	margin-right: 45px;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+.box3 h1{
+	color: rgb(0, 51, 102);
+	margin: 100px;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+.dockbottom{
+	background-color: red;
+	min-height: 50px;
+	margin-top: 10px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 30px;
+	clear: both;
+}
+
+.dockbottom h1{
+		color: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
+
+
+.footer{
+	background-color: red;
+	min-height: 50px;
+	margin-top: 10px;
+	margin-right: 45px;
+	margin-left: 45px;
+	margin-bottom: 30px;
+	clear: both;
+}
+.footer h1{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	font-size: 2em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%
+}
